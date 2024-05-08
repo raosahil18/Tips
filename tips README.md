@@ -4,15 +4,15 @@ The "tips" dataset is commonly utilized for training and illustrating data analy
 
 
 ## Dataset Entries
-###### Total Entries: 244 entries.
-###### Columns:  7 columns 
-1. Total_bill: This field encapsulates the entirety of the customer's payment, encompassing the meal cost, taxes, and any supplementary fees.
-2. Tip: This  signifies the gratuity left by the customer.
-3. Sex: This particular attribute denotes the gender of the customer, with options for either male or female.
-4. Smoker: This field denotes the smoking status of customers, a categorical variable with binary values: "Yes" indicating smokers and "No" indicating non-smokers.
-5. Day: This feature denotes the day of the week when the meal was enjoyed, spanning all seven days from Monday to Sunday.
-6. Time: This feature represents the timing of meal consumption, typically divided into two categories: "Lunch" for daytime meals and "Dinner" for evening meals
-7. Size: This attribute denotes the party size dining together, indicating the count of individuals included in the bill.
+**Total Entries:** 244 entries.<br/>
+**Columns:** 7 columns. 
+1. **Total_bill:** This field encapsulates the entirety of the customer's payment, encompassing the meal cost, taxes, and any supplementary fees.
+2. **Tip:** This  signifies the gratuity left by the customer.
+3. **Sex:** This particular attribute denotes the gender of the customer, with options for either male or female.
+4. **Smoker:** This field denotes the smoking status of customers, a categorical variable with binary values: "Yes" indicating smokers and "No" indicating non-smokers.
+5. **Day:** This feature denotes the day of the week when the meal was enjoyed, spanning all seven days from Monday to Sunday.
+6. **Time:** This feature represents the timing of meal consumption, typically divided into two categories: "Lunch" for daytime meals and "Dinner" for evening meals
+7. **Size:** This attribute denotes the party size dining together, indicating the count of individuals included in the bill.
 
 
 
