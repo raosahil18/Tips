@@ -1,5 +1,5 @@
 # Tips-Data
-###### Tools Used: Microsoft Excel
+###### Tool Used: Ms Excel
 ## About Dataset
 The "tips" dataset is a popular dataset often used for demonstration and practice in data analysis and visualization. It contains information about various attributes of customers in a restaurant, including the total bill amount, tip amount, gender, whether the customer smokes or not, the day of the week, time of day, and the size of the party.
 
